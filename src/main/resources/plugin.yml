@@ -1,6 +1,6 @@
-name: RealisticFire
+name: HungarianVillager
 version: 1.0
-main: com.nonkungch.realisticfire.RealisticFire
+main: com.nonkungch.HungarianVillager.HungarianVillager
 api-version: 1.21
 author: NonKungCh
-description: Makes fire sources extinguish in the rain.
+description: A plugin that gives Hungarian names to villagers based on biome and logs their life events.
